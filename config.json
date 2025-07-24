@@ -5,6 +5,7 @@
     "GMEEK_VERSION":"last",
     "homeUrl":"www.5211949.xyz",
     "showPostSource":0,
+    "singlePage":["chat"],
     "needComment":0
     
 }
