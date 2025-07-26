@@ -5,17 +5,6 @@
     "GMEEK_VERSION":"last",
     "homeUrl":"5211949.xyz",
     "showPostSource":0,
-    "script":"<meta name="viewport" content="width=device-width, initial-scale=1">
-<div id="tcomment"></div>
- <script>window.TWIKOO_MAGIC_PATH="test"</script>
-<script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.44/dist/twikoo.min.js"></script>
-<script>
-twikoo.init({
-  envId:'https://wanghaoyuan.netlify.app/.netlify/functions/twikoo',
-  el: '#tcomment', 
-  path:window.TWIKOO_MAGIC_PATH||window.location.pathname,
-})
-</script>",
     "needComment":0
     
 }
